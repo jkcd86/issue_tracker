@@ -17,7 +17,7 @@
     "mocha": "^7.0.0",
     "zombie": "6.1.4",
     "helmet": "^3.21.2",
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   },
   "engines": {
     "node": "^4.4.3"
